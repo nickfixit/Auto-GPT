@@ -1,0 +1,9 @@
+
+# 2024-06-02 09:17:01.432024
++/add rnd/nextgenautogpt/nextgenautogpt/cli.py docker-compose.yml Dockerfile.autogpt
+
+# 2024-06-02 09:17:24.512341
++/add frontend/
+
+# 2024-06-02 09:18:27.750119
++lets get this all fixed and changed tobeing set up and working with a web ui via docker  update and clean the code and validate
